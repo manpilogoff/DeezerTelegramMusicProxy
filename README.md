@@ -1,2 +1,5 @@
 # DeezerTelegramMusicProxy
+
 something everyone has dreamed of at least once...
+
+Idea Description:
